@@ -30,4 +30,5 @@ If you'd like to help out, reach out to me on discord at manjoos#0745
 
 
 NOTE: I am working on a completely revamped version of Pieta, as this is terrible code. Complete shit..
+
 ANOTHER-NOTE: Due to some thinking and advice, i have decided to completely abandon this project and work on something more exciting :)
