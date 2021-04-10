@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import readline
 import os, time, subprocess, requests, socket, string
 from prompt_toolkit.shortcuts import prompt
 from prompt_toolkit.styles import Style
